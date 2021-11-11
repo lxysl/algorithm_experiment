@@ -3,7 +3,6 @@ project(algorithm)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(algorithm1 main.cpp)
 add_executable(base1 base1.cpp)
 add_executable(base2 base2.cpp)
 add_executable(base3 base3.cpp)
